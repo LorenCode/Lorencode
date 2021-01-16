@@ -1,4 +1,6 @@
-﻿from random import randrange
+﻿#Juego del tres en raya
+
+from random import randrange
 
 filas = [["1","2","3"],["4","X","6"],["7","8","9"]]
 pos = {"1":(0,0),"2":(0,1),"3":(0,2),"4":(1,0),"5":(1,1),"6":(1,2),"7":(2,0),"8":(2,1),"9":(2,2)}
