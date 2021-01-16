@@ -9,6 +9,7 @@ def DisplayBoard():
 # la función acepta un parámetro el cual contiene el estado actual del tablero
 # y lo muestra en la consola
 #
+#
 
     for a in range(13):
         if a == 0:
