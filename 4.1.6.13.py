@@ -1,6 +1,7 @@
 ﻿#Juego del tres en raya
 # Edición prueba
 # prueba 2
+# prueba 3
 
 from random import randrange
 
