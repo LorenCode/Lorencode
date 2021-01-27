@@ -2,3 +2,14 @@
 *~
 [abc]
 [0-5]*
+
+# a/**/z 
+# a/b/z 
+# a/z 
+# a/b/z
+# /todo  ignora el archivo todo
+# build/ ignora todo lo que hay dentro de build
+# doc/*.txt ignora los archivos .txt en el directorio doc 
+# doc/**/*.txt ignorar los archivos .txt que esten en cualquier directorio de doc.
+
+# a/**/z todo lo que este dentro de a y que contenga z     esto es para directorios expresiones regulares
